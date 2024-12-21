@@ -1,5 +1,5 @@
 ## 👩‍💻 About Me
-I am a Computer Science major at the University of North Carolina, pursuing minors in Business Administration and Data Science. I am passionate about leveraging technology to solve real-world problems and create innovative solutions. In addition to my studies, I am actively involved in several clubs, including Girls Who Code, Women in Computer Science, and the UNC-CH Game Development Club. I enjoy collaborating with peers and contributing to projects that inspire and empower others.
+I am an aspiring Computer Science major at the University of North Carolina, pursuing minors in Business Administration and Data Science. I am passionate about leveraging technology to solve real-world problems and create innovative solutions. In addition to my studies, I am actively involved in several clubs, including Girls Who Code, Women in Computer Science, and the UNC-CH Game Development Club. I enjoy collaborating with peers and contributing to projects that inspire and empower others.
 ## Skills
 
 ### Classes
