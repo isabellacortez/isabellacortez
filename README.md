@@ -17,3 +17,5 @@ I am familiar with several programming languages and tools, including:
 - **JavaScript**: Created interactive web applications and prototypes.
 - **Git**: Utilized version control for collaborative projects.
 - **Docker**: Gained experience with containerization for application deployment.
+- **HTML**: Built and structured web pages.
+- **CSS**: Styled and designed responsive web pages.
